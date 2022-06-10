@@ -1,0 +1,3 @@
+﻿  GUITCPClient.cpp
+C:\Users\User\Desktop\작업\네트워크보안프로그래밍\최종과제\과제 원본\GUITCPClient\GUITCPClient.cpp(245,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  GUITCPClient.vcxproj -> C:\Users\User\Desktop\작업\네트워크보안프로그래밍\최종과제\과제 원본\GUITCPClient\Debug\GUITCPClient.exe

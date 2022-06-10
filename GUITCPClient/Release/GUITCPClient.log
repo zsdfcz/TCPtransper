@@ -1,0 +1,11 @@
+﻿  GUITCPClient.cpp
+C:\Users\User\Desktop\작업\네트워크보안프로그래밍\최종과제\과제 원본\GUITCPClient\GUITCPClient.cpp(247,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Desktop\작업\네트워크보안프로그래밍\최종과제\과제 원본\GUITCPClient\GUITCPClient.cpp(254,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Desktop\작업\네트워크보안프로그래밍\최종과제\과제 원본\GUITCPClient\GUITCPClient.cpp(258,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Desktop\작업\네트워크보안프로그래밍\최종과제\과제 원본\GUITCPClient\GUITCPClient.cpp(264,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Desktop\작업\네트워크보안프로그래밍\최종과제\과제 원본\GUITCPClient\GUITCPClient.cpp(276,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 20 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  GUITCPClient.vcxproj -> C:\Users\User\Desktop\작업\네트워크보안프로그래밍\최종과제\과제 원본\GUITCPClient\Release\GUITCPClient.exe
